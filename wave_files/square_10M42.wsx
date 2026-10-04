@@ -1,0 +1,24 @@
+//Wave Generate From main_gen_wsx.cpp
+//ACTUAL_SAMPLE_RATE = 125000000;//Hz
+//ACTUAL_FREQUENCY = 10416666.667;//Hz
+SAMPLE_RATE		=	125000000;//Hz
+SAMPLE_POINTS	=	12;
+VOLTAGE_OFFSET	=	0;
+ADDRESS_RADIX	=	DEC;
+DATA_RADIX		=	DEC;
+
+DATA
+BEGIN
+0			:	511;
+1			:	511;
+2			:	511;
+3			:	511;
+4			:	511;
+5			:	511;
+6			:	-512;
+7			:	-512;
+8			:	-512;
+9			:	-512;
+10			:	-512;
+11			:	-512;
+END
