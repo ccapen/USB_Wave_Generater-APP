@@ -8,9 +8,10 @@
 release/
 resources/
 
+!reference_libraries/libserialport-0.dll
+
 !src/**
 !icon/**
 !gen_wave/**
 !wave_files/**
-!libserialport-0.dll
 !USB Wave Generater.exe
