@@ -14,4 +14,4 @@ resources/
 !icon/**
 !gen_wave/**
 !wave_files/**
-!USB Wave Generater.exe
+!gen_release.sh
